@@ -1,0 +1,5 @@
+A line of text is called a <string>
+A whole number is called an <integer>
+This program was coded in <python>
+An IDE is an <integrated> Development Environment
+<binary> uses 1's and 0's and is the primary language a computer understands
